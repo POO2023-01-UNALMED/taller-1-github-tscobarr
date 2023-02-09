@@ -1,0 +1,1 @@
+No me dejaba crear el commit porque la carpeta archivos estaba vacia y no estaba actualizada. Para solucionar esto creamos en alchivo respuesta.txt y se actualizo.
