@@ -1,3 +1,5 @@
 Tomas Escobar Rivera
 18
 Conocer conceptos y técnicas asociados al desarrollo de aplicaciones informáticas, con base en el paradigma de los objetos.
+Antes no podiamos hacer el commit porque la carpeta estaba vacia. Cuando agregamos el merge se actualiza.
+Es importante tener cuidado con modificar dos archivos al mismo tiempo porque los de la web estan mas actualizados que los del propio computador.
