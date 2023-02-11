@@ -1,1 +1,3 @@
-No me dejaba crear el commit porque la carpeta archivos estaba vacia. Para solucionar esto creamos en archivo respuesta.txt y asi se actualizo.
+Tomas Escobar Rivera
+18
+Conocer conceptos y técnicas asociados al desarrollo de aplicaciones informáticas, con base en el paradigma de los objetos.
